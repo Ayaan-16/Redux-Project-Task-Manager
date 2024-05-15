@@ -1,3 +1,7 @@
+# A Simple Redux Project of Adding , Deleting and Filtering Tasks with Simple Design
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
