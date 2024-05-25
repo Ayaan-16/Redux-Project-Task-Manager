@@ -75,6 +75,9 @@ body {
     &:hover:not(.active) {
       background-color: #f0f0f0;
     }
+    & + button {
+      margin-left: 1px;
+    }
   }
 }
 
