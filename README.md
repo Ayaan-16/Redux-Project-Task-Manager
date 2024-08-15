@@ -23,7 +23,7 @@ This project was built using these technologies.
 
 ## Features
 
-**📦 Used For Managing Tasks **
+  📦 Used For Managing Tasks
 
 **📖 Beautiful Clean Design**
 
